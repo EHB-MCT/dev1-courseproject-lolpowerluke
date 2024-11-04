@@ -129,7 +129,7 @@ export function rgb(r, g, b) {
  */
 
 export function rgba(r, g, b, a) {
-  return "rgba(" + r + "," + g + "," + b + "," + a + "%)";
+  return "rgba(" + r + "," + g + "," + b + "," + a + ")";
 }
 /** function that converts an angle in degrees to radians
  * @param {number} degrees 
